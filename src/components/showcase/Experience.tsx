@@ -7,7 +7,7 @@ const Experience: React.FC<ExperienceProps> = (props) => {
     return (
         <div className="site-page-content">
             <ResumeDownload />
-            <div style={styles.headerContainer}>
+             /*<div style={styles.headerContainer}>
                 <div style={styles.header}>
                     <div style={styles.headerRow}>
                         <h1>Hover</h1>

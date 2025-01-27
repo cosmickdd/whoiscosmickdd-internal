@@ -12,13 +12,11 @@ const About: React.FC<AboutProps> = (props) => {
         <div className="site-page-content">
             {/* <img src={me} style={styles.topImage} alt="" /> */}
             <h1 style={{ marginLeft: -16 }}>Welcome</h1>
-            <h3>I'm Henry Heffernan</h3>
+            <h3>I'm Utkarsh Tiwari</h3>
             <br />
             <div className="text-block">
                 <p>
-                    I'm a software engineer currently working at Vercel! In May
-                    of 2022 I graduated from Rensselaer Polytechnic Institute
-                    with my BS in Computer Science.
+                    I'm a designer and developer based in New York City. I have a background in computer science and a passion for building things.  I'm currently working as a UI/UX designer at{'CLOUD COMPUTING CELL,AKGECS'} and I'm always looking for new opportunities to learn and grow.
                 </p>
                 <br />
                 <p>
@@ -27,8 +25,8 @@ const About: React.FC<AboutProps> = (props) => {
                     building it. If you have any questions or comments, feel
                     free to contact me using{' '}
                     <Link to="/contact">this form</Link> or shoot me an email at{' '}
-                    <a href="mailto:henryheffernan@gmail.com">
-                        henryheffernan@gmail.com
+                    <a href="mailto:ut0543700@gmail.com">
+                        contactcosickdd@gmail.com
                     </a>
                 </p>
             </div>

@@ -34,14 +34,14 @@ If you have any questions, feedback, or just want to connect — feel free to re
                 <h3>About Me</h3>
                 <br />
                 <p>
-                    From a young age, I have had a curiosity about how things
-                    worked. This naturally led me to become absolutely obsessed
-                    with Lego and I fell in love with building things. In
-                    elementary school, I joined the Lego Robotics team at my
-                    local middle school, which was my first real exposure to
-                    programming. In 2008, my family and I moved across the
-                    country from California to New York, where I attended middle
-                    school, high school, and college.
+                    
+                A coder by profession, a designer by passion, and a guitarist at heart—my journey blends creativity and logic in equal measure. Currently,
+                 I’m an Intern @ DevTown, constantly seeking ways to make an impact in the ever-evolving tech landscape. 
+                 As a engineering student AJAY KUMAR GARG ENGINEERING COLLEGE, I thrive on curiosity, innovation, and a relentless drive to create meaningful digital experiences.
+                    I have a strong foundation in software development, and I'm always eager to learn new technologies and improve my skills.
+                    I believe that the best way to learn is by doing, and I'm always looking for new challenges to tackle.
+                  working on projects that push my limits and allow me to explore new ideas is the best thing i love.
+
                 </p>
                 <br />
                 <div className="captioned-image">
@@ -55,16 +55,23 @@ If you have any questions, feedback, or just want to connect — feel free to re
                 </div>
 
                 <p>
-                    I started programming more seriously in high school,
-                    initially learning how to scrape and interact with websites.
+                    I started programming more seriously in my school years, when I
+                    was around 17 years old. I started learning Python and Webdevelopment in 
+                    high school, and I was immediately hooked. I started learning
+                    everything I could about programming, and I started working on different projects 
+                    and learning about different technologies after joining college.
+                    Then the development around machine learning and AI started to take off, and I
+                    started to learn about it.
+                     I was fascinated by the possibilities.
+                      I began experimenting with small machine learning models and exploring how AI could be applied to solve real-world problems. This exploration deepened my understanding of algorithms and data structures, and I became increasingly passionate about the intersection of AI and software development.
                     I went on to do a ton of passion projects, many of them with
                     one of my closest friends,{' '}
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://www.linkedin.com/in/scott-bass-189a7919b/"
+                        href="https://www.linkedin.com/in/priyank-verma-0b88a528b/"
                     >
-                        Scott Bass
+                        Priyank Verma
                     </a>
                     . We worked on many projects together, including chat bots,
                     multiple game projects, apps, and more. One of these

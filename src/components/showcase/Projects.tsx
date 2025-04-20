@@ -80,21 +80,21 @@ I’ve put a lot of heart into showcasing each project—hope you enjoy the jour
                 <ProjectBox
                     icon={software}
                     iconStyle={styles.computerIcon}
-                    title="Software"
+                    title="Design"
                     subtitle="PROJECTS"
                     route="Design"
                 />
                 <ProjectBox
                     icon={music}
                     iconStyle={styles.musicIcon}
-                    title="Music"
+                    title="Machine Learning"
                     subtitle="PROJECTS"
                     route="ML"
                 />
                 <ProjectBox
                     icon={art}
                     iconStyle={styles.artIcon}
-                    title="Art"
+                    title="Other"
                     subtitle="PROJECTS"
                     route="Others"
                 />

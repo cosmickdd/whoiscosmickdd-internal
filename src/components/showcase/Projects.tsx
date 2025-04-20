@@ -71,10 +71,9 @@ const Projects: React.FC<ProjectsProps> = (props) => {
             <h3>& Hobbies</h3>
             <br />
             <p>
-                Click on one of the areas below to check out some of my favorite
-                projects I've done in that field. I spent a lot of time to
-                include a lot of visuals and interactive media to showcase each
-                project. Enjoy!
+            Explore the sections below to dive into some of my favorite projects across different fields.
+Each one is packed with visuals, interactive elements, and thoughtful details that bring the work to life.
+I’ve put a lot of heart into showcasing each project—hope you enjoy the journey!
             </p>
             <br />
             <div style={styles.projectLinksContainer}>
@@ -83,21 +82,21 @@ const Projects: React.FC<ProjectsProps> = (props) => {
                     iconStyle={styles.computerIcon}
                     title="Software"
                     subtitle="PROJECTS"
-                    route="software"
+                    route="Design"
                 />
                 <ProjectBox
                     icon={music}
                     iconStyle={styles.musicIcon}
                     title="Music"
-                    subtitle="VENTURES"
-                    route="music"
+                    subtitle="PROJECTS"
+                    route="ML"
                 />
                 <ProjectBox
                     icon={art}
                     iconStyle={styles.artIcon}
                     title="Art"
-                    subtitle="ENDEAVORS"
-                    route="art"
+                    subtitle="PROJECTS"
+                    route="Others"
                 />
             </div>
         </div>

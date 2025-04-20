@@ -16,14 +16,13 @@ const About: React.FC<AboutProps> = (props) => {
             <br />
             <div className="text-block">
                 <p>
-                    I'm a designer and developer based in New York City. I have a background in computer science and a passion for building things.  I'm currently working as a UI/UX designer at{'CLOUD COMPUTING CELL,AKGECS'} and I'm always looking for new opportunities to learn and grow.
+                    I'm a designer and developer based in Gaziabad. I have a background in computer science and a passion for building things.  I'm currently working as a UI/UX designer at{'CLOUD COMPUTING CELL,AKGEC'} and I'm always looking for new opportunities to learn and grow.
                 </p>
                 <br />
                 <p>
-                    Thank you for taking the time to check out my portfolio. I
-                    really hope you enjoy exploring it as much as I enjoyed
-                    building it. If you have any questions or comments, feel
-                    free to contact me using{' '}
+                Thanks so much for taking the time to explore my portfolio.
+I truly enjoyed creating it, and I hope you find it just as engaging to browse through.
+If you have any questions, feedback, or just want to connect — feel free to reach out anytime!{' '}
                     <Link to="/contact">this form</Link> or shoot me an email at{' '}
                     <a href="mailto:ut0543700@gmail.com">
                         contactcosickdd@gmail.com

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from '../general';
-import forHire from '../../assets/pictures/forHireGif.gif';
+//import forHire from '../../assets/pictures/forHireGif.gif';
 import { useLocation, useNavigate } from 'react-router';
 
 export interface VerticalNavbarProps {}
@@ -59,18 +59,18 @@ const VerticalNavbar: React.FC<VerticalNavbarProps> = (props) => {
                         <div style={styles.insetLinks}>
                             <Link
                                 containerStyle={styles.insetLink}
-                                to="projects/software"
-                                text="SOFTWARE"
+                                to="projects/design"
+                                text="DESIGN"
                             />
                             <Link
                                 containerStyle={styles.insetLink}
-                                to="projects/music"
-                                text="MUSIC"
+                                to="projects/ML"
+                                text="ML"
                             />
                             <Link
                                 containerStyle={styles.insetLink}
-                                to="projects/art"
-                                text="ART"
+                                to="projects/others"
+                                text="OTHER"        
                             />
                         </div>
                     )
@@ -83,7 +83,7 @@ const VerticalNavbar: React.FC<VerticalNavbarProps> = (props) => {
             </div>
             <div style={styles.spacer} />
             <div style={styles.forHireContainer} onMouseDown={goToContact}>
-                {/* <img src={forHire} style={styles.image} alt="" /> */}
+                {/* <img src={forHire} style={styles.image/} alt="" /> */}
             </div>
         </div>
     ) : (

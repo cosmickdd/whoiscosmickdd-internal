@@ -58,12 +58,7 @@ If you have any questions, feedback, or just want to connect — feel free to re
                     I started programming more seriously in my school years, when I
                     was around 17 years old. I started learning Python and Webdevelopment in 
                     high school, and I was immediately hooked. I started learning
-                    everything I could about programming, and I started working on different projects 
-                    and learning about different technologies after joining college.
-                    Then the development around machine learning and AI started to take off, and I
-                    started to learn about it.
-                     I was fascinated by the possibilities.
-                      I began experimenting with small machine learning models and exploring how AI could be applied to solve real-world problems. This exploration deepened my understanding of algorithms and data structures, and I became increasingly passionate about the intersection of AI and software development.
+                    everything I could about programming.
                     I went on to do a ton of passion projects, many of them with
                     one of my closest friends,{' '}
                     <a

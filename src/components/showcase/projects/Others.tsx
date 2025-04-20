@@ -3,9 +3,9 @@ import React from 'react';
 import girlRun from '../../../assets/pictures/projects/art/girl-run.gif';
 import gsts from '../../../assets/pictures/projects/art/gsts.png';
 
-export interface ArtProjectsProps {}
+export interface OtherProjectsProps {}
 
-const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
+const OtherProjects: React.FC<OtherProjectsProps> = (props) => {
     return (
         <div className="site-page-content">
             <h1>Art & Design</h1>
@@ -107,4 +107,4 @@ const ArtProjects: React.FC<ArtProjectsProps> = (props) => {
     );
 };
 
-export default ArtProjects;
+export default OtherProjects;

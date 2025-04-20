@@ -8,32 +8,34 @@ import scroll from '../../../assets/pictures/projects/software/scroll.mp4';
 import ResumeDownload from '../ResumeDownload';
 import VideoAsset from '../../general/VideoAsset';
 
-export interface SoftwareProjectsProps {}
-
-const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
+export interface DesignProjectsProps {}
+export interface StyleSheetCSS {
+    [key: string]: React.CSSProperties;
+}
+const DesignProjects: React.FC<DesignProjectsProps> = (props) => {
     return (
         <div className="site-page-content">
             <h1>Software</h1>
             <h3>Projects</h3>
             <br />
             <p>
-                Below are some of my favorite software projects I have worked on
+                Below are some of my favorite UI/UX DESIGN projects I have worked on
                 over the last few years.
             </p>
             <br />
             <ResumeDownload />
             <br />
             <div className="text-block">
-                <h2>henryheffernan.com</h2>
+                <h2>whoiscosmickdd.com</h2>
                 <br />
                 <p>
-                    henryheffernan.com is my portfolio website, and also the
+                    whoiscosmickdd.com is my portfolio website, and also the
                     website you are on right now. This project was an absolute
                     joy to make and challenged me both technically and
                     creatively. Early in 2022, I knew I wanted to make an
                     interactive portfolio to aid my job search. I eventually got
                     the idea for this site around early February and began
-                    development early March. I've been developing it alongside
+                    development earl+y March. I've been developing it alongside
                     my last semester at school and if you are reading this, it's
                     pretty much done!
                 </p>
@@ -287,4 +289,4 @@ const styles: StyleSheetCSS = {
     },
 };
 
-export default SoftwareProjects;
+export default DesignProjects;

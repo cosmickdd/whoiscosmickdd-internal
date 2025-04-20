@@ -16,7 +16,9 @@ const About: React.FC<AboutProps> = (props) => {
             <br />
             <div className="text-block">
                 <p>
-                    I'm a designer and developer based in Gaziabad. I have a background in computer science and a passion for building things.  I'm currently working as a UI/UX designer at{'CLOUD COMPUTING CELL,AKGEC'} and I'm always looking for new opportunities to learn and grow.
+                I'm a designer and developer based in Ghaziabad. I have a background in computer science and a passion for building things. I'm currently working as a UI/UX designer at {'CLOUD COMPUTING CELL, AKGEC'} and I'm always looking for new opportunities to learn and grow.
+
+
                 </p>
                 <br />
                 <p>
@@ -53,34 +55,41 @@ If you have any questions, feedback, or just want to connect — feel free to re
                 </div>
 
                 <p>
-                    I started programming more seriously in my school years, when I
-                    was around 17 years old. I started learning Python and Webdevelopment in 
-                    high school, and I was immediately hooked. I started learning
-                    everything I could about programming.
-                    I went on to do a ton of passion projects, many of them with
-                    one of my closest friends,{' '}
+                I began programming seriously during my school years, around the age of 17. Starting with Python and web development, I was instantly hooked by the creativity and logic behind it. Since then, I’ve explored various domains through passion projects—many built alongside one of my closest friends—constantly pushing boundaries and learning by doing.{' '}
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://www.linkedin.com/in/priyank-verma-0b88a528b/"
+                        href="https://www.linkedin.com/in/priyanshukrsingh/"
                     >
-                        Priyank Verma
+                        Priyanshu Singh
                     </a>
                     . We worked on many projects together, including chat bots,
-                    multiple game projects, apps, and more. One of these
+                    multiple Ecommerce websites, apps, and explored various no code tools during our school time. One of these
                     projects is viewable on my{' '}
                     <Link to="/projects/software">Software Projects</Link> page.
                 </p>
                 <br />
                 <p>
-                    In 2017, I got accepted into Rennselear Polytechnic
-                    Institute to study Computer Science. It was my first choice
-                    and I was absolutely ecstatic to be going to such a great
-                    university. At the end of my sophomore year, I got an
-                    internship working for the startup Hover, primarily focusing
-                    on frontend work. I continued to work at Hover on and off
-                    for about a year and a half, until the start of my senior
-                    year when I decided to focus on other opportunities.
+                    In 2023, I got accepted into AJAY KUMAR GARG ENGINEERING COLLEGE to study Computer Science/Information Technology.
+                    The course was my first choice but not the college. However, I was very happy with the course and college I got into.
+                    By the end of my sophomore year, I got an internship Project for the startup Prepstreet, primarily focusing on frontend work.
+                    I continued to work at Prepstreet on and off for about a year and a half, until the mid of my Second semester when I decided to explore other domains.
+                    I was good at designing and also started learning machine learning.
+                </p>
+                <br />
+                <p>
+                    During this time, I also developed a keen interest in open-source contributions. I began contributing to various projects on GitHub, which not only improved my coding skills but also helped me connect with a global community of developers.
+                    One of my proudest contributions was to a popular JavaScript library, where I fixed a critical bug and added a new feature that is now used by thousands of developers worldwide.
+                </p>
+                <br />
+                <p>
+                    In addition to my technical pursuits, I actively participated in hackathons and coding competitions. These events were a great way to challenge myself, collaborate with like-minded individuals, and come up with innovative solutions under tight deadlines.
+                    One of the hackathons I participated in was the Smart India Hackathon, where my team developed a solution for real-time traffic monitoring using machine learning and IoT.
+                </p>
+                <br />
+                <p>
+                    As I progressed in my academic journey, I also took on leadership roles in various student organizations. I served as the Coordinator of the college's Cloud Computing Cell, where I organized workshops, coding bootcamps, and mentorship programs to help fellow students enhance their technical skills.
+                    These experiences not only honed my leadership abilities but also gave me immense satisfaction in giving back to the community.
                 </p>
                 <br />
                 <br />

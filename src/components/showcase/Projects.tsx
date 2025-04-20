@@ -89,7 +89,7 @@ I’ve put a lot of heart into showcasing each project—hope you enjoy the jour
                     iconStyle={styles.musicIcon}
                     title="Machine Learning"
                     subtitle="PROJECTS"
-                    route="ML"
+                    route="ml"
                 />
                 <ProjectBox
                     icon={art}

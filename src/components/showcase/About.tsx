@@ -35,12 +35,10 @@ If you have any questions, feedback, or just want to connect — feel free to re
                 <br />
                 <p>
                     
-                A coder by profession, a designer by passion, and a guitarist at heart—my journey blends creativity and logic in equal measure. Currently,
-                 I’m an Intern @ DevTown, constantly seeking ways to make an impact in the ever-evolving tech landscape. 
-                 As a engineering student AJAY KUMAR GARG ENGINEERING COLLEGE, I thrive on curiosity, innovation, and a relentless drive to create meaningful digital experiences.
-                    I have a strong foundation in software development, and I'm always eager to learn new technologies and improve my skills.
-                    I believe that the best way to learn is by doing, and I'm always looking for new challenges to tackle.
-                  working on projects that push my limits and allow me to explore new ideas is the best thing i love.
+                
+                  A software developer by profession and a designer at heart, I combine technical expertise with creative thinking to build impactful digital solutions.
+                   Currently interning at DevTown, I thrive in fast-paced environments, embracing challenges that drive growth and innovation.
+                    Passionate about continuous learning, I’m always exploring fresh ideas and technologies.
 
                 </p>
                 <br />

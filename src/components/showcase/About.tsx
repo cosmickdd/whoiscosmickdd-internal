@@ -88,7 +88,7 @@ If you have any questions, feedback, or just want to connect — feel free to re
                 </p>
                 <br />
                 <p>
-                    As I progressed in my academic journey, I also took on leadership roles in various student organizations. I served as the Coordinator of the college's Cloud Computing Cell, where I organized workshops, coding bootcamps, and mentorship programs to help fellow students enhance their technical skills.
+                    As I progressed in my academic journey, I also took on leadership roles in various student organizations. I served as the Coordinator of the college's Cloud Computing club, where I organized workshops, coding bootcamps, and mentorship programs to help fellow students enhance their technical skills.
                     These experiences not only honed my leadership abilities but also gave me immense satisfaction in giving back to the community.
                 </p>
                 <br />
@@ -108,9 +108,9 @@ If you have any questions, feedback, or just want to connect — feel free to re
                             Beyond software, I have a lot of hobbies that I
                             enjoy doing in my free time. The more tangible
                             hobbies I have are{' '}
-                            <Link to="/projects/music">Music Production</Link>{' '}
+                            <Link to="/projects/others">Playing Guitar</Link>{' '}
                             and creating{' '}
-                            <Link to="/projects/art">Digital Art</Link>. You can
+                            <Link to="/projects/others">Digital Art</Link>. You can
                             read more about each of these on their respective
                             pages under my projects tab. Some other hobbies I
                             enjoy are working out, cooking, and (unsurprisingly)
@@ -118,17 +118,16 @@ If you have any questions, feedback, or just want to connect — feel free to re
                         </p>
                         <br />
                         <p>
-                            In college, I was an active member in the fraternity
-                            Sigma Alpha Epsilon and held multiple positions in
+                            In college, I was an active member in the Slumswaraj Foundation and held multiple Donation drives in
                             the chapter. I met a lot of amazing people through
-                            my fraternity and thoroughly enjoyed the community.
+                            my work and thoroughly enjoyed Helping the ones in need and the community.
                         </p>
                     </div>
                     <div style={styles.verticalImage}>
                         <img src={meNow} style={styles.image} alt="" />
                         <p>
                             <sub>
-                                <b>Figure 2:</b> Me, April 2022
+                                <b>Figure 2:</b> Me, April 2025
                             </sub>
                         </p>
                     </div>
@@ -143,9 +142,9 @@ If you have any questions, feedback, or just want to connect — feel free to re
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://twitter.com/henryheffernan"
+                        href="https://twitter.com/cosmickdd"
                     >
-                        @henryheffernan
+                        @cosmickdd
                     </a>{' '}
                     Good luck and have fun!
                 </p>
@@ -155,8 +154,8 @@ If you have any questions, feedback, or just want to connect — feel free to re
                     them. You can reach me through the{' '}
                     <Link to="/contact">contact page</Link> or shoot me an email
                     at{' '}
-                    <a href="mailto:henryheffernan@gmail.com">
-                        henryheffernan@gmail.com
+                    <a href="mailto:cosmickdd@gmail.com">
+                        ut0543700@gmail.com
                     </a>
                 </p>
             </div>

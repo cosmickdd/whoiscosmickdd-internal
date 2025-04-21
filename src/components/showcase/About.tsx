@@ -55,13 +55,13 @@ If you have any questions, feedback, or just want to connect — feel free to re
                 </div>
 
                 <p>
-                I began programming seriously during my school years, around the age of 17. Starting with Python and web development, I was instantly hooked by the creativity and logic behind it. Since then, I’ve explored various domains through passion projects—many built alongside one of my closest friends—constantly pushing boundaries and learning by doing.{' '}
+                I began programming seriously during my school years, around the age of 17. Starting with Python and web development, I was instantly hooked by the creativity and logic behind it. Since then, I’ve explored various domains through passion projects—many built alongside one of my closest friend {' '}
                     <a
                         rel="noreferrer"
                         target="_blank"
                         href="https://www.linkedin.com/in/priyanshukrsingh/"
                     >
-                        Priyanshu Singh
+                        Priyanshu Singh.
                     </a>
                     . We worked on many projects together, including chat bots,
                     multiple Ecommerce websites, apps, and explored various no code tools during our school time. One of these

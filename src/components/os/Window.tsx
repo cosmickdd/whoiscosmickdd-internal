@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, { ReactNode, useEffect, useRef, useState } from 'react';
 import { IconName } from '../../assets/icons';
 import colors from '../../constants/colors';
 import Colors from '../../constants/colors';
@@ -22,6 +22,7 @@ export interface WindowProps {
     windowBarIcon?: IconName;
     onWidthChange?: (width: number) => void;
     onHeightChange?: (height: number) => void;
+    children?: ReactNode;
 }
 
 const Window: React.FC<WindowProps> = (props) => {
@@ -29,10 +30,11 @@ const Window: React.FC<WindowProps> = (props) => {
     const dragRef = useRef<any>(null);
     const contentRef = useRef<any>(null);
 
-    const dragProps = useRef<{
-        dragStartX: any;
-        dragStartY: any;
-    }>();
+    const dragProps = useRef<{ dragStartX: any; dragStartY: any }>({
+  dragStartX: null,
+  dragStartY: null,
+});
+
 
     const resizeRef = useRef<any>(null);
 

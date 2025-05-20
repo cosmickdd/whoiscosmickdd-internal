@@ -1,5 +1,5 @@
 import React from 'react';
-import me from '../../assets/pictures/workingAtComputer.jpg';
+
 import meNow from '../../assets/pictures/currentme.jpg';
 import { Link } from 'react-router-dom';
 import ResumeDownload from './ResumeDownload';
@@ -45,7 +45,7 @@ If you have any questions, feedback, or just want to connect — feel free to re
                 </p>
                 <br />
                 <div className="captioned-image">
-                    <img src={me} style={styles.image} alt="" />
+                    <img src={meNow} style={styles.image} alt="" />
                     <p>
                         <sub>
                             <b>Figure 1:</b> A real photo of me developing this
